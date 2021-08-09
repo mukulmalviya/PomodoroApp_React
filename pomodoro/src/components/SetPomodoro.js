@@ -49,10 +49,6 @@ const SetPomodoro = () => {
                 </div>
                 <button type='submit'>Set Timer</button>
             </form>
-            <footer>
-  <p>Made with 💚 by Mukul Malviya</p>
-  <p><a href="https://github.com/mukulmalviya/PomodoroApp_React">Github link</a></p>
-</footer> 
         </div>
     )
 }

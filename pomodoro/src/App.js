@@ -66,6 +66,10 @@ const App = () => {
           <Button title="Pause" activeClass={startAnimate ? 'active' : undefined} _callback={pauseTimer} />
         </div>
       </> : <SetPomodoro />}
+      <footer>
+        <p>Made with 💚 by Mukul Malviya</p>
+        <p><a href="https://github.com/mukulmalviya/PomodoroApp_React">Github link</a></p>
+      </footer> 
     </div>
   )
 }
